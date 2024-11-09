@@ -14,7 +14,7 @@ document.addEventListener('click', e => {
         document.getElementById('iframe').src="history9.pdf"
       } 
       if (e.target.id == 'algebra7'){
-        document.getElementById('iframe').src="https://drive.google.com/file/d/1MASsuLHFPPuZsknBbUzPU7Oegei537YI/view?usp=sharing"
+        document.getElementById('iframe').src="algebra7.pdf"
       } 
       if (e.target.id == 'algebra8'){
         document.getElementById('iframe').src="algebra8.pdf"
