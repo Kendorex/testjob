@@ -101,7 +101,7 @@ document.addEventListener('click', e => {
         document.getElementById('iframe').src="fizika9.pdf"
       }
       if (e.target.id == 'biologi7'){
-        document.getElementById('iframe').src="biologi7.pdf"
+        document.getElementById('iframe').src="https://github.com/Kendorex/testjob/blob/b1d87799cb2fe0c0fec87906f1b9735ffcda5da0/biologi7.pdf"
       } 
       if (e.target.id == 'biologi8'){
         document.getElementById('iframe').src="biologi8.pdf"
